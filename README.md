@@ -3,7 +3,7 @@
 <h2> Information Technology Projects: </h2>
 
 - <b> osTicket (Help Desk Ticketing System) </b>
-   - osTicket: Post-Installation Configuration (https://github.com/kolapo72/post_installation)
+   - <a href="https://github.com/kolapo72/post_installation"> osTicket: Post-Installation Configuration</a>
    - osTicket: Ticket Lifecycle Examples (https://github.com/ticket_lifecycle)
 
 - <b>Microsoft Azure</b>

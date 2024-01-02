@@ -3,8 +3,8 @@
 <h2> Information Technology Projects: </h2>
 
 - <b> osTicket (Help Desk Ticketing System) </b>
-   - osTicket: Post-Installation Configuration
-   - osTicket: Ticket Lifecycle Examples
+   - osTicket: Post-Installation Configuration (https://github.com/kolapo72/post_installation)
+   - osTicket: Ticket Lifecycle Examples (https://github.com/ticket_lifecycle)
 
 - <b>Microsoft Azure</b>
    - Configuring Active Directory within Azure VMs.

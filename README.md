@@ -4,7 +4,7 @@
 
 - <b> osTicket (Help Desk Ticketing System) </b>
    - <a href="https://github.com/kolapo72/post_installation"> osTicket: Post-Installation Configuration</a>
-   - osTicket: Ticket Lifecycle Examples (https://github.com/ticket_lifecycle)
+   - <a href="https://github.com/kolapo72/ticket_lifecycle"> osTicket: Ticket Lifecycle Examples</a>
 
 - <b>Microsoft Azure</b>
    - Configuring Active Directory within Azure VMs.

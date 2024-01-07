@@ -8,7 +8,7 @@
    - <a href="https://github.com/kolapo72/ticket_lifecycle"> osTicket: Ticket Lifecycle Examples</a>
 
 - <b>Microsoft Azure</b>
-   - Create Resource Groups, Resources and Virtual Machines.
+   - <a href="https://github.com/Kolapo72/resource-groups"> Create Resource Groups, Resources and Virtual Machines</a>.
    - Configuring Active Directory within Azure VMs.
    - Network Security Groups (NSGs) and Inspecting Network Protocols.
  

@@ -18,10 +18,9 @@
    <li> Internet Information Services (IIS)</li>
 
 <h3>Operating Systems Used</h3>
-   -<li> Windows 10</li>
-   -<li> Windows Server</li>
+   <li> Windows 10</li>
+   <li> Windows Server</li>
 
  <h2>Connect with Me:</h2>
-
- {twittwer]: 
- {linkedin}:
+   <li>{twittwer]: </li>
+   <li>{linkedin}: </li>

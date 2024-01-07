@@ -14,7 +14,7 @@
  
 - <b>Packet Tracer</b>
    - <a href="https://github.com/Kolapo72/simple_network"> Build a Simple Network
-   - <a href=""> Configure the End Devices and Verify Connectivity
+   - <a href="https://github.com/Kolapo72/configure_endusers_connectivity"> Configure the End Devices and Verify Connectivity
  
 <h3>Environments and Technologies Used</h3>
    <li> Microsoft Azure (Virtual Machines/Compute)</li>

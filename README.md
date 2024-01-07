@@ -21,6 +21,7 @@
    <li> Remote Desktop</li>
    <li> osTicket
    <li> Internet Information Services (IIS)</li>
+   <li> Cicso Packet Tracer</li>
 
 <h3>Operating Systems Used</h3>
    <li> Windows 10</li>

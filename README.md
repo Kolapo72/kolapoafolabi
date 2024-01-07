@@ -15,6 +15,7 @@
 <h3>Environments and Technologies Used</h3>
    <li> Microsoft Azure (Virtual Machines/Compute)</li>
    <li> Remote Desktop</li>
+   <li> osTicket
    <li> Internet Information Services (IIS)</li>
 
 <h3>Operating Systems Used</h3>
@@ -22,5 +23,5 @@
    <li> Windows Server</li>
 
  <h2>Connect with Me:</h2>
-   <li>{twittwer]: </li>
+   <li>{twitter]: </li>
    <li>{linkedin}: </li>

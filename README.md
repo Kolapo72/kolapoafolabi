@@ -13,14 +13,11 @@
    - <a href="https://github.com/Kolapo72/NSGs"> Network Security Groups (NSGs) and Inspecting Network Protocols.
  
 <h3>Environments and Technologies Used</h3>
-<list>
-   - Microsoft Azure (Virtual Machines/Compute)
-   - Remote Desktop
-   - Internet Information Services (IIS)
-</list>
+   <li>- Microsoft Azure (Virtual Machines/Compute)</li>
+   <li>- Remote Desktop</li>
+   <li>- Internet Information Services (IIS)</li>
 
 <h3>Operating Systems Used</h3>
-   <list>
    - Windows 10
    - Windows Server
    </list>

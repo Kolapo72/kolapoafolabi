@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
    - <a href="https://github.com/Kolapo72/resource-groups"> Create Resource Groups, Resources and Virtual Machines</a>.
    - <a href="https://github.com/Kolapo72/active_directory"> Configuring Active Directory within Azure VMs</a>.
-   - <a href=""> Network Security Groups (NSGs) and Inspecting Network Protocols.
+   - <a href="https://github.com/Kolapo72/NSGs"> Network Security Groups (NSGs) and Inspecting Network Protocols.
  
 <h3>Environments and Technologies Used</h3>
 <list>

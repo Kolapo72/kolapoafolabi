@@ -28,5 +28,4 @@
    <li> Windows Server</li>
 
  <h2>Connect with Me:</h2>
-   <li>{twitter]: </li>
    <li>{linkedin}: </li>

@@ -13,7 +13,7 @@
    - <a href="https://github.com/Kolapo72/NSGs"> Network Security Groups (NSGs) and Inspecting Network Protocols.
  
 - <b>Packet Tracer</b>
-   - <a href=""> Build a Simple Network
+   - <a href="https://github.com/Kolapo72/simple_network"> Build a Simple Network
    - <a href=""> Configure the End Devices and Verify Connectivity
  
 <h3>Environments and Technologies Used</h3>

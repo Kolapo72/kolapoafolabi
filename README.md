@@ -28,4 +28,4 @@
    <li> Windows Server</li>
 
  <h2>Connect with Me:</h2>
-   <li>{linkedin}: </li>
+   <li>{linkedin}: <a href="https://www.linkedin.com/in/kolapooluwaseun-afolabi/"> Kolapo O. Afolabi</li>

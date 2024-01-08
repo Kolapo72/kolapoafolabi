@@ -8,7 +8,7 @@
    - <a href="https://github.com/kolapo72/ticket_lifecycle"> osTicket: Ticket Lifecycle Examples</a>.
 
 - <b>Microsoft Azure</b>
-   - <a href="https://github.com/Kolapo72/resource-groups"> Create Resource Groups, Resources and Virtual Machines</a>.
+   - <a href="https://github.com/Kolapo72/resource-groups"> Create Resource Groups and Virtual Machines</a>.
    - <a href="https://github.com/Kolapo72/active_directory"> Configuring Active Directory within Azure VMs</a>.
  
 - <b>Packet Tracer</b>
